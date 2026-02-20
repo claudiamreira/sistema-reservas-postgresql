@@ -10,11 +10,12 @@ Projeto desenvolvido para prática de modelagem relacional e análise de dados u
 - id (PK)
 - nome
 - email
+- data_nascimento
 - rua
 - numero
 - cidade
 - estado
-- data_nascimento
+
 
 ### destinos
 - id (PK)
@@ -40,3 +41,4 @@ Projeto desenvolvido para prática de modelagem relacional e análise de dados u
 - PostgreSQL
 - Supabase
 - SQL
+- ChatGPT
